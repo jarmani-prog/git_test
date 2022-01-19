@@ -1,0 +1,3 @@
+Hello World!
+My Repository
+Here to learnings from Odin and community cheers!"
